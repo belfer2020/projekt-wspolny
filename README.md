@@ -10,3 +10,5 @@ Stworzyć wspólny dokument na temat: **„Jak bezpiecznie korzystać z internet
 - Każdy członek zespołu tworzy własne repozytorium na podstawie tego (fork).
 - Uczeń A dodaje ucznia B jako kolaboratora.
 - Uczeń C tworzy pull request z własnymi zmianami.
+
+Uczeń B: Dominik :D

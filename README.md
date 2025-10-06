@@ -12,5 +12,9 @@ Stworzyć wspólny dokument na temat: **„Jak bezpiecznie korzystać z internet
 - Uczeń C tworzy pull request z własnymi zmianami.
 
 Uczeń A: Mikołaj :D
+
+
 Uczeń B: Dominik :D
+
+
 Uczeń C: Szymon :D

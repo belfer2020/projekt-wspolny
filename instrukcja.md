@@ -1,6 +1,6 @@
 # Instrukcja krok po kroku
 
-1. Pobierz to repozytorium w postaci pliku zip.
+1. Pobierz to repozytorium w postaci pliku zip (przycisk code).
 2. Utwórz repozytorium pod nazwą `TwojeNazwisko`-projekt-wspólny
 3. Utwórz folder `dokument/` jeśli go nie ma.
 4. Dodaj plik `wersja1.md` z własnym pomysłem na tekst.

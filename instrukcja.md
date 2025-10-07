@@ -1,7 +1,7 @@
 # Instrukcja krok po kroku
 
-1. Forkuj to repozytorium.
-2. Zmień nazwę na `TwojeNazwisko`-projekt-wspólny
+1. Pobierz to repozytorium w postaci pliku zip.
+2. Utwórz repozytorium pod nazwą `TwojeNazwisko`-projekt-wspólny
 3. Utwórz folder `dokument/` jeśli go nie ma.
 4. Dodaj plik `wersja1.md` z własnym pomysłem na tekst.
 5. Zaproś kolegę/koleżankę jako kolaboratora.
